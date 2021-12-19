@@ -1,0 +1,5 @@
+{
+	"ip":"LostWorldOFUniverse.aternos.me",
+	"port": "45599",
+	"name": "STOMPER"
+}
